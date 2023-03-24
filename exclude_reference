@@ -39,3 +39,7 @@ _HSIDivFactor
 _TIM4_Cmd
 _UART1_Cmd
 _UART1_GetFlagStatus
+_FLASH_ProgramByte
+_FLASH_Unlock
+_FLASH_SetProgrammingTime
+_FLASH_ReadByte
